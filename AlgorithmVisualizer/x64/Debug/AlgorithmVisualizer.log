@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(99,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(100,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(203,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(221,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(222,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(229,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(150,11): warning C4101: 'currentColor': unreferenced local variable
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(347,41): warning C4244: '=': conversion from 'unsigned int' to '_Ty', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(347,41): warning C4244:         with
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(347,41): warning C4244:         [
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(347,41): warning C4244:             _Ty=float
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(347,41): warning C4244:         ]
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(354,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(354,17): warning C4244:         with
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(354,17): warning C4244:         [
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(354,17): warning C4244:             _Ty=float
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(354,17): warning C4244:         ]
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(355,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(355,17): warning C4244:         with
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(355,17): warning C4244:         [
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(355,17): warning C4244:             _Ty=float
+C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\AlgorithmVisualizer\main.cpp(355,17): warning C4244:         ]
+  AlgorithmVisualizer.vcxproj -> C:\Users\ricza\Documents\C++\Projects\Graphics\OpenGL\AlgorithmVisualizer\x64\Debug\AlgorithmVisualizer.exe
